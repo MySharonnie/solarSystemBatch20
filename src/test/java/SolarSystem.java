@@ -13,5 +13,10 @@ public class SolarSystem {
         mars.color = "blue";
         mars.size= "50 meters";
         mars.temp="90000";
+
+        Planet1 p1=new Planet1();
+
+        p1.color="red";
+        p1.temp="100000";
     }
 }
