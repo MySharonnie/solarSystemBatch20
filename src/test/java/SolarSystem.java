@@ -7,5 +7,11 @@ public class SolarSystem {
         solar.Sun="1";
         solar.Moon="1";
         solar.Planet="2";
+
+        FeatureSun mars=new FeatureSun();
+
+        mars.color = "blue";
+        mars.size= "50 meters";
+        mars.temp="90000";
     }
 }
