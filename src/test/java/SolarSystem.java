@@ -18,5 +18,10 @@ public class SolarSystem {
 
         p1.color="red";
         p1.temp="100000";
+
+        Planet2 jupiter=new Planet2();
+
+        jupiter.color="blue";
+        jupiter.temp="150000";
     }
 }
