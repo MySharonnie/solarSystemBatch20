@@ -21,7 +21,7 @@ public class SolarSystem {
 
         Planet2 jupiter=new Planet2();
 
-        jupiter.color="blue";
+        jupiter.color="orange";
         jupiter.temp="150000";
     }
 }
